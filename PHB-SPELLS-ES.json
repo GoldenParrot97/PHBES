@@ -1,0 +1,124 @@
+{
+"1111":[
+ {
+  "Name": "name",
+  "Value": "Agarre electrizante",
+  "Name - Copia": "name",
+  "Value - Copia": "Fuego"
+ },
+ {
+  "Name": "level",
+  "Value": 0,
+  "Name - Copia": "level",
+  "Value - Copia": 0
+ },
+ {
+  "Name": "school",
+  "Value": "V",
+  "Name - Copia": "school",
+  "Value - Copia": "V"
+ },
+ {
+  "Name": "time",
+  "Value": "[List]",
+  "Name - Copia": "time",
+  "Value - Copia": "[List]"
+ },
+ {
+  "Name": "range",
+  "Value": "[Record]",
+  "Name - Copia": "range",
+  "Value - Copia": "[Record]"
+ },
+ {
+  "Name": "duration",
+  "Value": "[List]",
+  "Name - Copia": "duration",
+  "Value - Copia": "[List]"
+ },
+ {
+  "Name": "classes",
+  "Value": "[Record]",
+  "Name - Copia": "classes",
+  "Value - Copia": "[Record]"
+ },
+ {
+  "Name": "entries",
+  "Value": "[List]",
+  "Name - Copia": "entries",
+  "Value - Copia": "[List]"
+ },
+ {
+  "Name": "source",
+  "Name - Copia": "source"
+ },
+ {
+  "Name": "components",
+  "Value": "[Record]",
+  "Name - Copia": "components",
+  "Value - Copia": "[Record]"
+ },
+ {
+  "Name": "entriesHigherLevel",
+  "Value": "[List]",
+  "Name - Copia": "entriesHigherLevel",
+  "Value - Copia": "[List]"
+ },
+ {
+  "Name": "damageInflict",
+  "Value": "[List]",
+  "Name - Copia": "damageInflict",
+  "Value - Copia": "[List]"
+ }
+],
+"1111 (2)":[
+ {
+  "Name": "name",
+  "Value": "Fuego"
+ },
+ {
+  "Name": "level",
+  "Value": 0
+ },
+ {
+  "Name": "school",
+  "Value": "V"
+ },
+ {
+  "Name": "time",
+  "Value": "[List]"
+ },
+ {
+  "Name": "range",
+  "Value": "[Record]"
+ },
+ {
+  "Name": "duration",
+  "Value": "[List]"
+ },
+ {
+  "Name": "classes",
+  "Value": "[Record]"
+ },
+ {
+  "Name": "entries",
+  "Value": "[List]"
+ },
+ {
+  "Name": "source"
+ },
+ {
+  "Name": "components",
+  "Value": "[Record]"
+ },
+ {
+  "Name": "entriesHigherLevel",
+  "Value": "[List]"
+ },
+ {
+  "Name": "damageInflict",
+  "Value": "[List]"
+ }
+],
+
+}
