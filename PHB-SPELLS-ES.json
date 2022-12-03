@@ -1,6 +1,21 @@
 {
-"1111":[
- {
+	"_meta": {
+		"sources": [
+			{
+				"json": "PHBsSpanishTranslationSpells",
+				"abbreviation": "PHBES:SPELLS",
+				"full": "PHB's Spanish Translation: Spells",
+				"url": "https://github.com/GoldenParrot97/PHBES/blob/fb740e3d2554989eecb26244a73b12e71393c32b/PHB-SPELLS-ES.json",
+				"authors": [
+					"WotC"
+				],
+				"convertedBy": [
+					"GoldenParrot"
+				]
+			}
+		]
+	}
+{
   "Name": "name",
   "Value": "Agarre electrizante",
   "Name - Copia": "name",
